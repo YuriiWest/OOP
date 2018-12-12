@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @YuriiWest Sign out
-0
-0 0 StepanKniazevich/Lab-
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-Lab-/Lab 2.txt
-bcbc1d4  19 days ago
-@StepanKniazevich StepanKniazevich Update Lab 2.txt
-     
-56 lines (36 sloc)  1.03 KB
 #include <iostream>
 #include <Windows.h>
 
@@ -70,16 +53,3 @@ else { cout<<"Ви ввели неправильні значення "<<endl; }
 
 system("pause");
 return 0;}
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
